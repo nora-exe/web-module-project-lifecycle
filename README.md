@@ -1,3 +1,17 @@
+# Notes
+## Links
+* GP 🎥https://youtu.be/2VSUgvF6Io0 
+* GP ⚙ https://github.com/LambdaSchool/web-guided-project-lifecycle
+* MP ⚙ https://github.com/nora-exe/web-module-project-lifecycle/tree/nora-corser
+
+## Key Concepts:
+* 📝React Lifecycle - [The overall flow of code execution throughout the birth, operation and death of a React component.](https://medium.com/how-to-react/react-life-cycle-methods-with-examples-2bdb7465332b)
+
+## Key Terminology:
+* 📝ComponentDidMount - [The React.Component derived method that is triggered after a component initially mounts.](https://linguinecode.com/post/understanding-react-componentdidmount)
+* 📝ComponentDidUpdate - [The React.Component derived method that is triggered any time a component update props or state.](https://dev.to/cesareferrari/how-to-use-componentdidupdate-in-react-30en)
+* 📝ComponentWillUnmount - [The React.Component derived method that is triggered when a component is removed from the DOM.](https://learn.co/lessons/react-component-mounting-and-unmounting)
+
 # Module Project: Component Lifecycle Methods - React Github User Card
 
 This project allows you to practice the concepts and techniques learned in this module and apply them in a concrete project. This module explored lifecycle methods in class components. In your project you will demonstrate proficiency of these concepts by recreating the Github User Card project, but as a React application this time.
